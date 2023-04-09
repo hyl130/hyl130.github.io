@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Hyunjo and I am a 4th year undergraduate student at the University of California, San Diego (UCSD). I am graduating in June of 2023 with a degree in Bachelor's of Science in Computer Science. I have several experiences in software engineering using my programming skills.
+Hi! I am Hyunjo and I am a 4th year undergraduate student at the University of California, San Diego (UCSD). I am graduating in June of 2023 with a degree in Bachelor's of Science in Computer Science. My primary technical languages are Java and Python. I have several experiences with C++, JavaScript, React, HTML, and CSS.
 
+When I am not coding, I'm probably exploring new places and taking pictures. I love listening to music and dancing during my free time!
 
 Why me?
 ======
