@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Zesty"
+excerpt: "Utilized HTML and JavaScript to build out all the features for this web application, then incorporated CSS to style all the page components. Used figma to create initial designs. Worked with a recipe API to get recipe datas that match the user’s search criteria.<br/><img src='/images/zestyPreview.png'>"
 collection: portfolio
 ---
 
