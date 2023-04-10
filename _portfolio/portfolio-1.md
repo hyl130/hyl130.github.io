@@ -1,11 +1,11 @@
 ---
 title: "Zesty - Web Application Development project"
 excerpt: "
-- Utilized HTML and JavaScript to build out all the features for this web application, then incorporated CSS to style all the page components. 
-- Used figma to create initial designs. 
-- Worked with a recipe API to get recipe datas that match the user’s search criteria.<br/>
+- Utilized HTML and JavaScript to build out all the features for this web application, then incorporated CSS to style all the page components.\n 
+- Used figma to create initial designs.\n 
+- Worked with a recipe API to get recipe datas that match the user’s search criteria. \n
 <center>
-<img src='/images/zestyPreview.png'>
+<img src='/images/zestyPreview.png' width=400>
 </center>"
 collection: portfolio
 redirect_to: https://lucid-borg-00ad57.netlify.app
