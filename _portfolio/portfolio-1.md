@@ -1,7 +1,5 @@
 ---
 title: "Projects"
-permalink: /projects/
-author_profile: true
 ---
 
 <h2><b><a href="https://lucid-borg-00ad57.netlify.app/"> Zesty - Web Application Development project</a> </b></h2>
@@ -11,7 +9,9 @@ author_profile: true
 - Used figma to create initial designs.<br>
 - Worked with a recipe API to get recipe datas that match the user’s search criteria.<br>
 </p>
-<img src='/images/zestyPreview.png'  align-items=center width=500>
+<div align-items=center >
+<img src='/images/zestyPreview.png' width=500>
+</div>
 </div>
 
 <h2><b><a href="https://github.com/hyl130/dormit-second-prototype"> DormIt</a> </b></h2>
@@ -20,7 +20,9 @@ author_profile: true
 - Developed the landing screen and the order task screens for the mobile app using React Native.<br>
 - Inspected to make sure the applications are responsive.<br>
 </p>
-<video width='500' justify-content=center controls><source src='/images/DormItDemo.mp4' type='video/mp4'>
+<div justify-content=center >
+<video width='500' controls><source src='/images/DormItDemo.mp4' type='video/mp4'>
+</div>
 Your browser does not support the video tag.</video>
 </div>
 
