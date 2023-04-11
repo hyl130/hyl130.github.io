@@ -15,6 +15,8 @@ permalink: /project/
 </div>
 </div>
 
+
+
 <h2><b><a href="https://github.com/hyl130/dormit-second-prototype"> DormIt</a> </b></h2>
 <div>
 <p>
@@ -28,3 +30,26 @@ Your browser does not support the video tag.</video>
 </div>
 
 
+
+<h2><b>Fasoo - Directory Monitoring program</b></h2>
+<div>
+<p>
+- Developed a directory monitoring program within the Windows Operting System using multiple threads within C++.<br>
+- Used a File System Minifilter Driver to monitor security of the application.<br>
+- Implemented in both kernel mode and user mode to deepen the understanding of the computer architecture.<br>
+</p>
+<div >
+<img src='/images/FasooDemo.png' width=500>
+</div>
+</div>
+
+<h2><b><a href="https://github.com/hyl130/Congressional-Election-Research"> Congressional-Election-Research - Data Science project</a> </b></h2>
+<div>
+<p>
+- Collected and cleaned the dataset that is relevant to the research topic.<br>
+- Visualize the data to find out relationship between the different variables to find correlation.<br>
+</p>
+<div >
+<img src='/images/Congressional.png' width=500>
+</div>
+</div>
