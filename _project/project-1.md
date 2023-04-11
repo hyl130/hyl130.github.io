@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-collection: projects
+permalink: /project/
 ---
 
 <h2><b><a href="https://lucid-borg-00ad57.netlify.app/"> Zesty - Web Application Development project</a> </b></h2>
