@@ -30,6 +30,17 @@ Your browser does not support the video tag.</video>
 </div>
 
 
+<h2><b>Traffic Lights</b></h2>
+<div>
+<p>
+- Implemented and utilized semaphores in a C program that simulates cars sharing a single lane that requires a synchronization.<br>
+- Solved the race condition by adding synchronization directives to cause cars to wait for the others.<br>
+</p>
+<div >
+<img src='/images/TrafficLights.png' width=500>
+</div>
+</div>
+
 
 <h2><b>Fasoo - Directory Monitoring program</b></h2>
 <div>
