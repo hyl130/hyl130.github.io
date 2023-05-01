@@ -21,7 +21,7 @@ permalink: /project/
 <div>
 <p>
 - Developed the landing screen and the order task screens for the mobile app using React Native.<br>
-- Inspected to make sure the applications are responsive.<br>
+- Analyzed to make sure the applications are responsive.<br>
 </p>
 <div >
 <video width='500' controls><source src='/images/DormItDemo.mp4' type='video/mp4'>
@@ -54,11 +54,11 @@ Your browser does not support the video tag.</video>
 </div>
 </div>
 
-<h2><b><a href="https://github.com/hyl130/Congressional-Election-Research"> Congressional-Election-Research - Data Science project</a> </b></h2>
+<h2><b><a href="https://github.com/hyl130/Congressional-Election-Research"> Congressional Election Research - Data Science project</a> </b></h2>
 <div>
 <p>
-- Collected and cleaned the dataset that is relevant to the research topic.<br>
-- Visualize the data to find out relationship between the different variables to find correlation.<br>
+- Collected and cleaned the dataset that is relevant to the research topic using Pandas.<br>
+- Visualized the data into a line plot, histogram, Q-Q plot, and Scatterplot to find out the relationship between the different variables to find correlation.<br>
 </p>
 <div >
 <img src='/images/Congressional.png' width=500>
