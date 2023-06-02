@@ -97,3 +97,14 @@ Your browser does not support the video tag.</video>
 <img src='/images/9bim.png' width=500>
 </div>
 </div>
+
+<h2><b>Gomoku</b></h2>
+<div>
+<p>
+- Implemented Monte Carlo tree search (MCTS) to decide the action to take in order for the AI to beat the random player on Gomoku.<br>
+- Manipulated the computational budget to observe different behavior of AI as reaching this budget exits the MCTS.<br>
+</p>
+<div >
+<video width='500' controls><source src='/images/GomokuDemo.mp4' type='video/mp4'>
+</div>
+</div>
