@@ -64,3 +64,36 @@ Your browser does not support the video tag.</video>
 <img src='/images/Congressional.png' width=500>
 </div>
 </div>
+
+<h2><b>MNIST Digits Classification</b></h2>
+<div>
+<p>
+- Utilized Machine Learning algorithms to classify handwritten digits and model each label as a multivariate Gaussian.<br>
+- Performed relationship extraction following the NLP method to get a correct label from the MNIST dataset using NumPy.<br>
+</p>
+<div >
+<img src='/images/mnist.png' width=500>
+</div>
+</div>
+
+<h2><b>Linux ‘ls’ Command</b></h2>
+<div>
+<p>
+- Designed and implemented using C and ARM assembler with Raspberry Pi that replicated the ‘ls’ command in Linux, and implemented tags associated with it.<br>
+- Created a better understanding of the Linux commands.<br>
+</p>
+<div >
+<img src='/images/myls.png' width=500>
+</div>
+</div>
+
+<h2><b>9BIM</b></h2>
+<div>
+<p>
+- Implemented a single cycle processor for radio transmission computation by designing our own assembly instructions.<br>
+- Created a fully functional ISA and its architecture in System Verilog using a EDA software simulation tool called Modelsim.<br>
+</p>
+<div >
+<img src='/images/9bim.png' width=500>
+</div>
+</div>
