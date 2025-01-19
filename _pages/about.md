@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I'm Hyunjo, a passionate full stack engineer with a love for creating innovative software solutions. I'm currently a 4th year undergraduate student at the University of California, San Diego (UCSD), graduating in June 2023 with a Bachelor's degree in Computer Science.
+Hey, I'm Hyunjo! I’m a full stack developer based in Sn Diego, and I love building creative software solutions that solve real problems. I graduated with a Computer Science degree from University of California, San Diego (UCSD) in 2023, and I’ve been diving into web development ever since. Always excited to learn and tackle new challenges along the way!
 
-I thrive in cross-functional teams and excel in Agile development environments. Collaborating with diverse professionals, I enjoy designing, developing, testing, and deploying high-quality software. My primary technical languages are Java and Python, and I also have experience with C++, JavaScript, React, HTML, and CSS.
+I thrive in cross-functional teams and excel in Agile development environments. Collaborating with diverse professionals, I enjoy designing, developing, testing, and deploying high-quality software. My primary technical languages are Java, Python, JavaScript, HTML, and CSS. I also have experience with C++, PHP, and React.
 
 I've tackled challenging projects throughout my academic and professional journey. From automating manual workflows to building web and mobile applications, I've sharpened my problem-solving abilities and attention to detail. My strong foundation in Computer Science and Mathematics enables me to leverage a range of programming languages and web technologies like HTML, CSS, ReactJS, and React Native to create intuitive and responsive user interfaces.
 
-Beyond coding, I love exploring new places and capturing moments through photography. And when I'm not doing that, you might find me dancing in the world of music during my free time.
-
-As a 2023 New Graduate, I'm actively seeking entry-level Full-Stack Software Engineer opportunities. I'm excited to bring my skills, knowledge, and passion to a forward-thinking organization that values innovation and fosters a collaborative work environment.
-
+Beyond coding, I love exploring new places, capturing moments through photography, and watching sunset. And when I'm not doing that, you might find me dancing in the world of music during my free time.
 
 Why me?
 ======
